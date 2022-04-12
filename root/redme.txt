@@ -1,1 +1,2 @@
-dfds
+Przebieg zmienności funkcji
+Jakub Dąbrowski
